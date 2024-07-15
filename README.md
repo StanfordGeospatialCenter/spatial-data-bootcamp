@@ -26,10 +26,14 @@
     - Spatial Data Models
       - Vector
       - Raster
+      - Tabular
 
 **T - VECTOR**
 
-- Morning: Creating Data
+- **Morning**: Creating Data
+  - Point, line & polygon Editing in QGIS
+  - Making Geometries in GEE
+  - FeatureCollections in GEE
 - Afternoon: Queries/Overlay
 
 **W - RASTER**
